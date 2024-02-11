@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://ihnatisin.com/superjp.html/sitemap.xml
+Sitemap: http://ihnatisin.com/gilajp.html/sitemap.xml
+Sitemap: http://ihnatisin.com/gojekpot.html/sitemap.xml
+Sitemap: http://ihnatisin.com/winstrike69.html/sitemap.xml
+Sitemap: http://ihnatisin.com/jagoan86.html/sitemap.xml
+Sitemap: http://ihnatisin.com/slotzeus.html/sitemap.xml
+Sitemap: http://ihnatisin.com/kaptenjackpot.html/sitemap.xml
+Sitemap: http://ihnatisin.com/boosterjp.html/sitemap.xml
+Sitemap: http://ihnatisin.com/kerajaanslot.html/sitemap.xml
+Sitemap: http://ihnatisin.com/pakong86.html/sitemap.xml
+Sitemap: http://ihnatisin.com/viral88.html/sitemap.xml
+Sitemap: http://ihnatisin.com/clan4d.html/sitemap.xml
+Sitemap: http://ihnatisin.com/dinamit4d.html/sitemap.xml
+Sitemap: http://ihnatisin.com/elang212.html/sitemap.xml
+Sitemap: http://ihnatisin.com/gori77.html/sitemap.xml
+Sitemap: http://ihnatisin.com/viral4d.html/sitemap.xml
+Sitemap: http://ihnatisin.com/playground88.html/sitemap.xml
